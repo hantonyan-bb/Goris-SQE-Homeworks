@@ -1,9 +1,9 @@
 # Goris SQE Trainings  :octocat:
 
 ## Training Members
-*Anush Mkrtchyan
-*Arman Amaryan
-*Arpine Dinunts
+-Anush Mkrtchyan
+-Arman Amaryan
+-Arpine Dinunts
 *Arsen Dadunts
 *Arsen Simonyan
 *David Abelyan
