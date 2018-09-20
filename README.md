@@ -1,23 +1,23 @@
 # Goris SQE Trainings  :octocat:
 
-## Training Members
--Anush Mkrtchyan
--Arman Amaryan
--Arpine Dinunts
-*Arsen Dadunts
-*Arsen Simonyan
-*David Abelyan
-*Garnik Baghdasaryan
-*Harut Aghajanyan
-*Hayk Yeritsyan
-*Levon Arshakyan
-*Levon Bakunts
-*Lilith Movsisyan
-*Mher Tigranyan
-*Seryan Arustamyan
-*Smbat Hayryan
-*Suren Mkrtchyan
-*Vagharshak Ghazaryan
+##  :point_right: Training Members  :point_left:
+- [X] Anush Mkrtchyan
+- [X] Arman Amaryan
+- [X] Arpine Dinunts
+- [X] Arsen Dadunts
+- [X] Arsen Simonyan
+- [X] David Abelyan
+- [X] Garnik Baghdasaryan
+- [X] Harut Aghajanyan
+- [X] Hayk Yeritsyan
+- [X] Levon Arshakyan
+- [X] Levon Bakunts
+- [X] Lilith Movsisyan
+- [X] Mher Tigranyan
+- [X] Seryan Arustamyan
+- [X] Smbat Hayryan
+- [X] Suren Mkrtchyan
+- [X] Vagharshak Ghazaryan
 
 ### Some basic Git commands are:
 ```
