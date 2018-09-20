@@ -32,3 +32,7 @@ git push origin master - Send changes to the master branch of your remote reposi
 git pull - Fetch and merge changes on the remote server to your working directory
 ```
 
+# Useful links
+- JAVA intorduction (JDK,JVM,JRE) - `https://www.ibm.com/developerworks/java/tutorials/j-introtojava1/index.html`
+- Linux Basic commands - `https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners`,`https://www.guru99.com/must-know-linux-commands.html`
+- Vim (Basic commands/modes) - `https://guide.freecodecamp.org/vim/modes/`, `https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started`
