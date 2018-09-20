@@ -36,3 +36,13 @@ git pull - Fetch and merge changes on the remote server to your working director
 - JAVA intorduction (JDK,JVM,JRE) - `https://www.ibm.com/developerworks/java/tutorials/j-introtojava1/index.html`
 - Linux Basic commands - `https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners`,`https://www.guru99.com/must-know-linux-commands.html`
 - Vim (Basic commands/modes) - `https://guide.freecodecamp.org/vim/modes/`, `https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started`
+
+
+
+## What is OOP
+[![What is OOP!](https://4.bp.blogspot.com/-uLChi3EKOjQ/V1CAj_GmBOI/AAAAAAAAEx0/egN5W_8lOLwpUXQYR2QLsE6zTZA_E8XNgCK4B/s1600/14.jpg)](https://www.youtube.com/watch?v=SS-9y0H3Si8)
+
+
+
+## Why Do Computers Use 1s and 0s
+[![Why Do Computers Use 1s and 0!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-QIPvvEd1hyzIic7MY2WqQF1fMeUKuUoJ37k-HVX70UiQQ5QDHw)](https://www.youtube.com/watch?v=Z6cSiP93nos)
