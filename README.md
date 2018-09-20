@@ -18,6 +18,7 @@
 - [X] Smbat Hayryan
 - [X] Suren Mkrtchyan
 - [X] Vagharshak Ghazaryan
+- [X] Karlen Ohanyan
 
 ### Some basic Git commands are:
 ```
