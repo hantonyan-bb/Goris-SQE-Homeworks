@@ -1,5 +1,8 @@
 # Goris SQE Trainings  :octocat:
 
+## Books   :books:
+<a href="https://github.com/HarutAntonyan778/Goris-SQE-Homeworks/blob/master/books/Herbert_Schildt_-_Java_the_complete_Reference_9.pdf"><img src="https://images-na.ssl-images-amazon.com/images/I/41en%2Bsva3hL._SX402_BO1,204,203,200_.jpg" height="75"></a>      <a href="https://github.com/HarutAntonyan778/Goris-SQE-Homeworks/blob/master/books/JavaTheCompleteReference.pdf"><img src="https://images-na.ssl-images-amazon.com/images/I/618YQosPQTL.jpg" height="75"></a>      <a href="https://github.com/HarutAntonyan778/Goris-SQE-Homeworks/blob/master/books/Ched_Fauler_-_Programmist-Fanatik_-_2015.pdf"><img src="http://top100knig.bid/pics_1/ched_fauler_programmist-fanatik.jpg" height="75"></a>      <a href="https://github.com/HarutAntonyan778/Goris-SQE-Homeworks/blob/master/books/Beginning%20Java%208%20Fundamentals.pdf"><img src="https://images-na.ssl-images-amazon.com/images/I/51fV8figzKL._SX404_BO1,204,203,200_.jpg" height="75"></a>     <a href="https://github.com/HarutAntonyan778/Goris-SQE-Homeworks/blob/master/books/Shildt_G_-_Java_8_Polnoe_Rukovodstvo_-_2015.pdf"><img src="http://bizlit.com.ua/image/cache/data/kniga-java-8-polnoe-rukovodstvo-600x800.jpg" height="75"></a>
+
 ##  :point_right: Training Members  :point_left:
 - [X] Anush Mkrtchyan
 - [X] Arman Amaryan
