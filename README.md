@@ -20,6 +20,11 @@
 - [X] Vagharshak Ghazaryan
 - [X] Karlen Ohanyan
 
+# Homeworks
+  ### Primitive data types
+- [ ] Write a Java program that converts inches to meters.
+- [ ] Given the `n` number. Write a Java program that prints the square of a number `n` if `n` is odd , otherwise print 0. Please do not use `conditional statements`.
+
 ### Some basic Git commands are:
 ```
 git clone /path/to/repository - Create a working copy of a local repository
