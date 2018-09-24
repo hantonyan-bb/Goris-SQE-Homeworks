@@ -1,0 +1,63 @@
+Orinak
+x*x-b*x+c=0
+
+
+skzbi hamar gtnum enq diskriminant@ hetevyal banadzevov
+D=b*b-4*a*c
+
+ete D<0 apa havasarume armat chuni
+
+ete D==0 apa uni mek armat vore hasvhum e hetevyal banadzevov
+x= -b / (2*a)
+
+isk ete D>0 apa havasarume uni erku armat voronq hashvum en hetevyal banadzevov 
+
+x1 = -b + armat D / 2*a
+x2 = -b - armat D / 2*a
+
+input a
+input b
+input c
+
+tiv = b * b - 4*a*c
+
+if (tiv>0) {
+x1 = (-b + Math.sqrt(D) / (2*a)
+x2 = (-b - Math.sqrt(D) / (2*a)
+sout(x1 ev x2);
+} else if (tiv==0)
+x1= -b / (2*a)
+sout(x1);
+} else {
+sout(tive armat chuni);
+}
+
+Orinak 
+x*x-8*x+12=0
+
+D= (-8)*(-8) -4*1*12
+D= 64 - 48 = 16
+D = 16
+D>0
+
+x1 = (8+4)/2
+x1=6
+x2 = (8-4)/2
+x2=2
+
+
+input a
+input b
+input c
+
+double D = b * b - 4.0 * a * c;
+if (D > 0) {
+                double x1 = (-b + Math.sqrt(D)) / (2 * a);
+                double x2 = (-b - Math.sqrt(D)) / (2 * a);
+                sout("Armatnern en "  x1 " and " x2);
+            } else if (D == 0) {
+                double x1 = -b / (2 * a);
+                sout("Armatn e " x1);
+            } else {
+                sout("Armat chuni");
+  }
