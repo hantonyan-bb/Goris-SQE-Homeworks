@@ -7,7 +7,7 @@
 public class Homework2 {
     public static void main(String[] args) {
 
-         int number=8;
+         int number=8; // Lyuboy tiv
          System.out.println(number * number * (number%2));
     }
 }
