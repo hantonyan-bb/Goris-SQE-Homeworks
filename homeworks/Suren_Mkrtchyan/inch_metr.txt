@@ -1,0 +1,7 @@
+public class MyClass {
+    public static void main(String args[]) {
+        int m=54;
+        double i=m*0.0254;
+        System.out.println(i);
+    }
+}
