@@ -25,8 +25,19 @@
 
 # Homeworks
   ### Primitive data types
-- [ ] Write a Java program that converts inches to meters.
-- [ ] Given the `n` number. Write a Java program that prints the square of a number `n` if `n` is odd , otherwise print 0. Please do not use `conditional statements`.
+- [X] Write a Java program that converts inches to meters.
+  ```java
+  double value=0.0254;
+  double input=777;
+  double meterResult = value * input;
+  System.out.println(meterResult);
+  ```
+- [X] Given the `n` number. Write a Java program that prints the square of a number `n` if `n` is odd , otherwise print 0. Please do not use `conditional statements`.
+ ```java
+ int n=7;
+ n=n*n*n%2;
+ System.out.println(n);
+ ```
 
 ### Some basic Git commands are:
 ```
